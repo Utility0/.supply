@@ -2,6 +2,6 @@ bin
 include
 lib
 lib64
-ntw_example
+ntx_example
 share
 pyvenv.cfg
